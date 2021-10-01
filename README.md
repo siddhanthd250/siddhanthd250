@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @siddhanthd250
 - 👀 I’m interested in travelling
 - 🌱 I’m currently learning hindi
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me sid din Facebook
 
 <!---
